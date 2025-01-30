@@ -19,3 +19,6 @@ Uso de data class: Opté por data class para modelos inmutables como Producto, T
 Enumeraciones: Utilicé enum class para EstadoPedido y TipoPago.
 Métodos para comportamiento: Implementé métodos como registrarPago() y calcularTotal() para reflejar las operaciones del diagrama.
 
+## UML
+
+![Descripción de la imagen](https://raw.githubusercontent.com/JoseLuis-S/ej_5_2-entornos/main/Ejercicio5.2.png)
